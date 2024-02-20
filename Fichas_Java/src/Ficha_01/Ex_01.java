@@ -21,7 +21,7 @@ public class Ex_01 {
 
         // Ler num2
         System.out.print("Insira outro número inteiro: ");
-        num2= input.nextInt();
+        num2 = input.nextInt();
 
         // Somar num1 com num2
         soma = num1 + num2;
