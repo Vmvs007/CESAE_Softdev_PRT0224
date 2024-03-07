@@ -2,29 +2,34 @@ package Ficha_05;
 
 import java.util.Scanner;
 
-public class Ex_01 {
+public class Ex_05 {
     public static void main(String[] args) {
 
         // Importar o Scanner
         Scanner input = new Scanner(System.in);
 
         // Declarar variáveis
-        int[] vetor = new int[10];
+        double[] vetor = new double[10];
+        double total = 0, media;
 
         System.out.println("**************************");
 
         // Ler vetor
         for (int i = 0; i < vetor.length; i++) {
             System.out.print("Insira um número no vetor[" + i + "]: ");
-            vetor[i] = input.nextInt();
+            vetor[i] = input.nextDouble();
         }
 
-        System.out.println("**************************");
-
-        // Imprimir o vetor
+        // Encontrar o somatorio
         for (int i = 0; i < vetor.length; i++) {
-            System.out.println("vetor[" + i + "]: " + vetor[i]);
+            total = total + vetor[i];
         }
+
+        // Calcular a media
+        media = total / vetor.length;
+
+        // Apresentar a media
+        System.out.println("Média: " + media);
 
     }
 }

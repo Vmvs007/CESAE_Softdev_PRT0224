@@ -2,14 +2,14 @@ package Ficha_05;
 
 import java.util.Scanner;
 
-public class Ex_01 {
+public class Ex_04 {
     public static void main(String[] args) {
-
         // Importar o Scanner
         Scanner input = new Scanner(System.in);
 
         // Declarar variáveis
         int[] vetor = new int[10];
+        int menor;
 
         System.out.println("**************************");
 
@@ -21,10 +21,18 @@ public class Ex_01 {
 
         System.out.println("**************************");
 
-        // Imprimir o vetor
+        // Inicializar o menor
+        menor = vetor[0];
+
+        // Encontrar o menor elemento
         for (int i = 0; i < vetor.length; i++) {
-            System.out.println("vetor[" + i + "]: " + vetor[i]);
+            if (vetor[i] < menor) {
+                menor = vetor[i];
+            }
         }
+
+        // Apresentar o menor elemento
+        System.out.println("Menor: " + menor);
 
     }
 }
