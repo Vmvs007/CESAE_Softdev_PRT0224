@@ -2,16 +2,17 @@ package Ficha_05;
 
 import java.util.Scanner;
 
-public class Ex_07 {
+public class Ex_07_v2 {
+
     public static void main(String[] args) {
+
 
         // Importar o Scanner
         Scanner input = new Scanner(System.in);
 
         // Declarar variáveis
         int[] vetor = new int[10];
-        int maiorPar;
-        boolean jaTemPar = false;
+        int maiorPar = -1;
 
         System.out.println("**************************");
 
@@ -21,30 +22,26 @@ public class Ex_07 {
             vetor[i] = input.nextInt();
         }
 
-        maiorPar = -1;
+        System.out.println("**************************");
 
-        // Encontrar o maior par
         for (int i = 0; i < vetor.length; i++) {
-
             if (vetor[i] % 2 == 0) {
+                maiorPar = vetor[i];
+            }
+        }
 
-                if (!jaTemPar) {
-                    maiorPar = vetor[i];
-                    jaTemPar = true;
-                }
-
-                if (vetor[i] > maiorPar) {
-                    maiorPar = vetor[i];
-                }
-
+        for (int i = 0; i < vetor.length; i++) {
+            if (vetor[i] % 2 == 0 && vetor[i] > maiorPar) {
+                maiorPar = vetor[i];
             }
         }
 
         // Apresentar o maior par
-        if (jaTemPar) {
+        if (maiorPar % 2 == 0) {
             System.out.println("Maior Par: " + maiorPar);
         } else {
             System.out.println("Não tem pares!");
         }
+
     }
 }
