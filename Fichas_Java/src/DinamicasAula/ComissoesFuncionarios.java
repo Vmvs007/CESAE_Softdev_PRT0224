@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ComissoesFuncionarios {
 
-    static double aoQuadrado(double n) {
+    public static double aoQuadrado(double n) {
         return n * n;
     }
 

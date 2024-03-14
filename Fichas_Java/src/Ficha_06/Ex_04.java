@@ -28,7 +28,7 @@ public class Ex_04 {
             System.out.println("7. Sair");
 
             // Ler opcao
-            System.out.print("Insira uma opção: ");
+            System.out.print("\nInsira uma opção: ");
             opcao = input.nextInt();
 
             System.out.println();
@@ -66,9 +66,19 @@ public class Ex_04 {
                     break;
 
                 case 4: // Perfeito ou Não Perfeito
+                    if(perfeito(numero)){
+                        System.out.println("*** Perfeito ***");
+                    }else{
+                        System.out.println("*** Não Perfeito ***");
+                    }
                     break;
 
                 case 5: // Triangular ou Não Triangular
+                    if(triangular(numero)){
+                        System.out.println("*** Triangular ***");
+                    }else{
+                        System.out.println("*** Não Triangular ***");
+                    }
                     break;
 
                 case 6: // Trocar de Número
