@@ -1,0 +1,75 @@
+nome,numero,curso,email,idade
+Ana Silva,123456,Software Developer,ana.silva@exemplo.com,21
+Bruno Santos,234567,Administracao,bruno.santos@exemplo.com,24
+Carla Souza,345678,Direito,carla.souza@exemplo.com,22
+David Ferreira,456789,Medicina,david.ferreira@exemplo.com,25
+Eduardo Lima,567890,Psicologia,eduardo.lima@exemplo.com,20
+Filipe Oliveira,678901,Economia,felipe.oliveira@exemplo.com,23
+Gabriela Rodrigues,789012,Engenharia Civil,gabriela.rodrigues@exemplo.com,22
+Hugo Santos,890123,Gestao,hugo.santos@exemplo.com,26
+Isabel Almeida,901234,Enfermagem,isabel.almeida@exemplo.com,20
+Joao Costa,012345,Design,joao.costa@exemplo.com,21
+Cátia Silva,123450,Medicina Veterinaria,katia.silva@exemplo.com,23
+Luisa Rodrigues,234501,Pedagogia,luisa.rodrigues@exemplo.com,24
+Manuel Oliveira,345612,Engenharia Eletrica,manuel.oliveira@exemplo.com,22
+Nuno Martins,456123,Marketing,nuno.martins@exemplo.com,25
+Olivia Sousa,567234,Arquitetura,olivia.sousa@exemplo.com,20
+Paulo Costa,678345,Engenharia Mecanica,paulo.costa@exemplo.com,21
+Quim Coelho,789456,Desporto,quim.coelho@exemplo.com,24
+Rafael Fernandes,890567,Psicologia,rafael.fernandes@exemplo.com,22
+Sara Pereira,901678,Direito,sara.pereira@exemplo.com,25
+Tiago Santos,012789,Engenharia Quimica,tiago.santos@exemplo.com,20
+Ulisses Gomes,123890,Medicina,ulisses.gomes@exemplo.com,21
+Vera Mendes,234901,Jornalismo,vera.mendes@exemplo.com,24
+Vitor Santos,111111,Psicologia,vitor.santos@exemplo.com,21
+Xavier Silva,345012,Engenharia de Producao,xavier.silva@exemplo.com,22
+Yasmin Almeida,456123,Administracao,yasmin.almeida@exemplo.com,25
+Zelia Gomes,567234,Direito,zelia.gomes@exemplo.com,20
+Vitor Santos,111111,Software Developer,vitor.santos@exemplo.com,21
+Hugo Santos,890123,Economia,hugo.santos@exemplo.com,26
+Ricardo Brás,111112,Software Developer,ricardo.bras@exemplo.com,32
+Andreia Henriques,111113,Software Developer,andreia.henriques@exemplo.com,45
+Amilcar Rodrigues,111114,Software Developer,amilcar.rodrigues@exemplo.com,42
+Ana Lima,456124,Marketing,ana.lima@exemplo.com,25
+Steve Jobs,456125,Marketing,steve.jobs@apple.com,56
+Bill Gates,100001,Software Developer,bill.gates@exemplo.com,66
+Elon Musk,200002,Software Developer,elon.musk@exemplo.com,50
+Cristiano Ronaldo,300003,Desporto,cristiano.ronaldo@exemplo.com,37
+Angelina Jolie,400004,Cinema,angelina.jolie@exemplo.com,46
+Oprah Winfrey,500005,Jornalismo,oprah.winfrey@exemplo.com,68
+Barack Obama,600006,Politica,barack.obama@exemplo.com,60
+Clint Eastwood,700007,Cinema,clint.eastwood@exemplo.com,91
+J.K. Rowling,800008,Literatura,jk.rowling@exemplo.com,56
+Michael Jordan,900009,Desporto,michael.jordan@exemplo.com,59
+Beyonce,1000010,Musica,beyonce@exemplo.com,40
+Obama,1200012,Política,michelle.obama@exemplo.com,58
+Armstrong,1300013,Astronomia,neil.armstrong@exemplo.com,91
+Stephen Hawking,1500015,Fisica,stephen.hawking@exemplo.com,76
+Emma Watson,1600016,Cinema,emma.watson@exemplo.com,32
+Pablo Picasso,1900019,Arte,pablo.picasso@exemplo.com,91
+Virginia Woolf,2000020,Literatura,virginia.woolf@exemplo.com,59
+Albert Einstein,2200022,Fisica,albert.einstein@exemplo.com,76
+Nelson Mandela,2400024,Politica,nelson.mandela@exemplo.com,95
+Walt Disney,2800028,Cinema,walt.disney@exemplo.com,65
+Muhammad Ali,2600026,Desporto,muhammad.ali@exemplo.com,74
+Frida Kahlo,2900029,Arte,frida.kahlo@exemplo.com,47
+Marilyn Monroe,3000030,Cinema,marilyn.monroe@exemplo.com,36
+Elisabeth Kubler-Ross,3100031,Psicologia,elisabeth.kubler-ross@exemplo.com,78
+Alberto Santos Dumont,3200032,Aviacao,alberto.santos-dumont@exemplo.com,59
+Vincent van Gogh,3300033,Arte,vincent.van-gogh@exemplo.com,37
+Fernando Pessoa,3400034,Literatura,fernando.pessoa@exemplo.com,133
+David Bowie,3500035,Musica,david.bowie@exemplo.com,69
+Napoleon Bonaparte,3600036,Politica,napoleon.bonaparte@exemplo.com,51
+Amelia Earhart,3900039,Aviacao,amelia.earhart@exemplo.com,39
+Isaac Newton,4000040,Fisica,isaac.newton@exemplo.com,84
+Leonardo da Vinci,4300043,Arte,leonardo.davinci@exemplo.com,67
+Coco Chanel,4500045,Moda,coco.chanel@exemplo.com,87
+Jose Mourinho,5200052,Desporto,jose.mourinho@exemplo.com,59
+Amalia Rodrigues,5300053,Musica,amalia.rodrigues@exemplo.com,79
+Eusebio da Silva Ferreira,5400054,Desporto,eusebio.silva-ferreira@exemplo.com,71
+Sophia de Mello Breyner Andresen,5800058,Literatura,sophia.andresen@exemplo.com,84
+Vasco da Gama,5900059,Navegacao,vasco.gama@exemplo.com,55
+Antonio Variacoes,6000060,Musica,antonio.variacoes@exemplo.com,39
+Jose Saramago,6100061,Literatura,jose.saramago@exemplo.com,87
+Mariza,6400064,Musica,mariza@exemplo.com,47
+Antonio Guterres,6500065,Política,antonio.guterres@exemplo.com,72

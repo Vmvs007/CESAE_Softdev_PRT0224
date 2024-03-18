@@ -1,0 +1,38 @@
+Cristiano Ronaldo,37
+Ivone Costa,64
+Fernando Pessoa,47
+Manuel Luis Goucha,67
+Cristina Ferreira,45
+Quim Roscas,42
+Zeca Estacionancio,42
+Jose Saramago,76
+Vitor Santos,24
+Stephen Hawking,76
+Fernando Rocha,47
+Amalia Rodrigues,49
+Bruno Nogueira,40
+Ricardo Araujo Pereira,44
+Herman Jose,69
+Rui Unas,47
+Elon Musk,51
+Cesar Mourao,42
+Antonio Raminhos,41
+Angelina Jolie,47
+Vasco da Gama,55
+Jose Castelo Branco,59
+Batatinha,55
+Companhia,53
+Eusebio,71
+Lili Caneças,78
+Luis de Camoes,56
+Afonso Henriques,102
+Toy,59
+Maria Leal,51
+Jeff Bezos,59
+Pepe,39
+Fernando Santos,68
+Leonardo DiCaprio,48
+Jose Mourinho,60
+Taylor Swift,33
+Rui Costa,50
+Albert Einstein,76
