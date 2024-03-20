@@ -7,6 +7,12 @@ import java.util.Scanner;
 
 public class Ex_03 {
 
+    /**
+     * Método que copia o conteúdo de um ficheiro para um novo ficheiro
+     * @param sourcePath Localização do Ficheiro a ser copiado
+     * @param newFilePath Localização do Novo Ficheiro
+     * @throws FileNotFoundException Caso o ficheiro não seja encontrado
+     */
     public static void copiarTextoFicheiroParaOutro(String sourcePath, String newFilePath) throws FileNotFoundException {
 
         // Scanner para o sourceFile
