@@ -8,22 +8,20 @@ public class Ex_02 {
 
     public static void criarFicheiroDeTextoComMensagem(String path, String mensagem) throws FileNotFoundException {
 
-        PrintWriter maquinaEscrever = new PrintWriter( new File(path));
+        PrintWriter maquinaEscrever = new PrintWriter(new File(path)); // Criar o PrintWriter "maquinaEscrever"
 
-        maquinaEscrever.println(mensagem);
+        maquinaEscrever.println(mensagem); // Escrever a mensagem no ficheiro
 
-        maquinaEscrever.close();
+        maquinaEscrever.close(); // Gravar e fechar o ficheiro
 
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
 
-        try{
 
-            criarFicheiroDeTextoComMensagem("Ficheiros/exercicio_02.txt", "Teste de Escrita em Ficheiro :D");
+        criarFicheiroDeTextoComMensagem("Ficheiros/exercicio_02.txt", "Teste de Escrita em Ficheiro :D");
+        criarFicheiroDeTextoComMensagem("Ficheiros/exemplo.txt","Olá Turma de Soft DeV!!!\n123\n456");
 
-        }catch (FileNotFoundException e){
 
-        }
     }
 }

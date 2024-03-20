@@ -18,17 +18,13 @@ public class Ex_01 {
 
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
 
-        try {
 
-            imprimirFicheiroConsola("Ficheiros/exercicio_01_Alternativa02.txt");
+        imprimirFicheiroConsola("icheiros/exercicio_01.txt");
+        imprimirFicheiroConsola("Ficheiros/exercicio_01_Alternativa01.txt");
+        imprimirFicheiroConsola("Ficheiros/exercicio_01_Alternativa02.txt");
 
-        } catch (FileNotFoundException e) {
-
-            System.out.println("Ficheiro Não Encontrado...");
-
-        }
 
     }
 
