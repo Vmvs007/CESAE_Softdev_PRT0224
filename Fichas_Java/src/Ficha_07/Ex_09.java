@@ -127,6 +127,7 @@ public class Ex_09 {
         // Ciclo de iteração da matriz
         for (int linha = 0; linha < matrizCompleta.length; linha++) {
 
+            // Dividir a duração por :
             duracaoString = matrizCompleta[linha][3];
 
             String[] duracaoDividida = duracaoString.split(":");
@@ -134,6 +135,7 @@ public class Ex_09 {
             minutos = Integer.parseInt(duracaoDividida[0]);
             segundos = Integer.parseInt(duracaoDividida[1]);
 
+            // Avaliar se a musica atual é mais longa que a longaAtual
             if(minutos==minutosMusicaMaisLonga){
 
                 if(segundos>segundosMusicaMaisLonga){
