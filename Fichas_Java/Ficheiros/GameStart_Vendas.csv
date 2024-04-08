@@ -1,0 +1,176 @@
+idVenda;idCliente;editora;categoria;jogo;valor
+V00-001;1;CD Projekt Red;RPG;The Witcher III: Wild Hunt;39.99
+V00-002;1;Team Cherry;Metroidvania;Hollow Knight;19.99
+V00-003;2;Xbox Game Studios;Estrategia;Age of Empires IV;35.99
+V00-004;3;Sony;Festa;Sing Star;9.90
+V00-005;4;Xbox Game Studios;MMORPG;Sea of Thieves;15.90
+V00-006;5;EA;Desporto;FIFA 21;29.90
+V00-007;5;EA;Desporto;FIFA 22;39.90
+V00-008;5;EA;Desporto;FIFA 23;69.90
+V00-009;6;EA;Desporto;UFC 23;69.90
+V00-010;6;CAPCOM;Luta;Street Fighter VI;55.90
+V00-011;6;Bandai Namco;Luta;Tekken 7;69.90
+V00-012;7;IO Interactive;Tiros;Hitman;52.90
+V00-013;8;Activision;Tiros;Call of Duty: Modern Warfare II;69.90
+V00-014;8;Team17;Festa;Overcooked 2;5.75
+V00-015;9;Bandai Namco;RPG;Elden Ring;69.90
+V00-016;9;FromSoftware;RPG;Dark Souls III;24.90
+V00-017;10;EA;Corridas;F1 22;19.90
+V00-018;10;Polyphony Digital;Corridas;Gran Turismo 7;59.90
+V00-019;10;EA;Corridas;Need for Speed Heat;34.50
+V00-020;11;Xbox Game Studios;Corridas;Forza Horizon 5;69.99
+V00-021;11;Polyphony Digital;Corridas;Gran Turismo 7;59.90
+V00-022;12;EA;Desporto;UFC 23;69.90
+V00-023;12;CAPCOM;Luta;Street Fighter VI;55.90
+V00-024;12;NetherRealm;Luta;Mortal Kombat 11;49.99
+V00-025;9;CD Projekt Red;RPG;The Witcher III: Wild Hunt;39.99
+V00-026;13;Sony;Festa;Sing Star;9.90
+V00-027;14;Bandai Namco;RPG;Elden Ring;69.90
+V00-028;14;Ubisoft;Festa;Monopoly Plus;2.50
+V00-029;1;Ubisoft;Aventura;Far Cry 6;59.90
+V00-030;15;Santa Monica;Aventura;God of War;59.90
+V00-031;16;Xbox Game Studios;Estrategia;Age of Empires IV;35.99
+V00-032;17;Giants;Simulador;Farming Simulator 22;31.25
+V00-033;17;Coffee Stain;Simulador;Goat Simulator 3;19.99
+V00-034;1;Annapuma;Aventura;Stray;29.99
+V00-035;15;Naughty Dog;Aventura;The Last of Us;49.90
+V00-036;19;Naughty Dog;Aventura;Uncharted 4;59.50
+V00-037;20;Ubisoft;Aventura;Assassins Creed Valhalla;69.90
+V00-038;21;Nintendo;Arcada;Super Mario Bros;1.99
+V00-039;22;Rockstar;RPG;GTA V;29.90
+V00-040;23;Rockstar;RPG;Red Dead Redemption 2;69.90
+V00-041;24;Valve;Tiros;Half-Life 2;12.20
+V00-042;25;Valve;Puzzle;Portal 2;9.99
+V00-043;26;EA;Corridas;Need for Speed Heat;34.50
+V00-044;24;Rockstar;RPG;Red Dead Redemption 2;69.90
+V00-045;9;Beteshda;RPG;Skyrim;9.99
+V00-046;1;Beteshda;RPG;Skyrim;9.99
+V00-047;27;Xbox Game Studios;Simulador;Minecraft;15.90
+V00-048;27;Paradox;Simulador;Prison Architect;12.20
+V00-049;28;Blizzard;MMORPG;World of Warcraft;2.00
+V00-050;28;Riot;MMORPG;League of Legends;2.00
+V00-051;29;EA;Desporto;FIFA 23;69.90
+V00-052;30;Sega;Aventura;Iron Man;3.95
+V00-053;30;Ubisoft;Festa;Monopoly Plus;2.50
+V00-054;28;Ubisoft;Festa;Monopoly Plus;2.50
+V00-055;31;2K;Desporto;PGA Tour 2K21;59.99
+V00-056;32;Ubisoft;Festa;Monopoly Plus;2.50
+V00-057;33;Sony;Festa;Sing Star;9.90
+V00-058;34;Xbox Game Studios;Estrategia;Age of Empires IV;35.99
+V00-059;34;Firaxis;Estrategia;Civilization VI;59.99
+V00-060;34;Paradox;Estrategia;Crusader Kings III;49.99
+V00-061;16;Firaxis;Estrategia;Civilization VI;59.99
+V00-062;16;Paradox;Estrategia;Crusader Kings III;49.99
+V00-063;34;Xbox Game Studios;Estrategia;Age of Mythology;34.90
+V00-064;35;Sony;Festa;Sing Star;9.90
+V00-065;36;Avalanche;RPG;Hogwarts Legacy;69.90
+V00-066;37;Astragon;Simulador;Firefighting Simulator;15.50
+V00-067;37;Big Cheese;Simulador;Cooking Simulator;19.99
+V00-068;38;Team17;Festa;Overcooked 2;5.75
+V00-069;38;Big Cheese;Simulador;Cooking Simulator;19.99
+V00-070;39;Big Cheese;Simulador;Cooking Simulator;19.99
+V00-071;39;EA;Corridas;Need for Speed Heat;34.50
+V00-072;39;Naughty Dog;Aventura;The Last of Us;49.90
+V00-073;39;Santa Monica;Aventura;God of War;59.90
+V00-074;28;EA;Simulador;Sims 4 Digital Deluxe;215.90
+V00-075;14;EA;Simulador;Sims 4 Digital Deluxe;215.90
+V00-076;19;Activision;Tiros;Call of Duty: Modern Warfare II;69.90
+V00-077;19;Activision;Tiros;Call of Duty: Black Ops III;49.50
+V00-078;7;Activision;Tiros;Call of Duty: Modern Warfare II;69.90
+V00-079;7;Activision;Tiros;Call of Duty: Black Ops III;49.50
+V00-080;40;Sony;Festa;Sing Star;9.90
+V00-081;41;Sony;Festa;Sing Star;9.90
+V00-082;41;Haemimont;Simulador;Surviving Mars;29.99
+V00-083;14;Haemimont;Simulador;Surviving Mars;29.99
+V00-084;14;Nintendo;Arcada;Super Mario Bros;1.99
+V00-085;35;Nintendo;Arcada;Super Mario Bros;1.99
+V00-086;30;Nintendo;Arcada;Super Mario Bros;1.99
+V00-087;42;CAPCOM;Luta;Street Fighter VI;55.90
+V00-088;43;CAPCOM;Luta;Street Fighter VI;55.90
+V00-089;43;Bandai Namco;Luta;Tekken 7;69.90
+V00-090;1;Beteshda;RPG;Fallout 4;49.99
+V00-091;39;Beteshda;RPG;Fallout 4;49.99
+V00-092;1;Avalanche;RPG;Hogwarts Legacy;69.90
+V00-093;37;Polyphony Digital;Corridas;Gran Turismo 7;59.90
+V00-094;44;Firaxis;Estrategia;Civilization VI;59.99
+V00-095;44;Xbox Game Studios;Estrategia;Age of Empires IV;35.99
+V00-096;44;Paradox;Estrategia;Crusader Kings III;49.99
+V00-097;45;Nintendo;Arcada;Super Mario Bros;1.99
+V00-098;45;CAPCOM;Terror;Outlast;12.25
+V00-099;22;CAPCOM;Terror;Outlast;12.25
+V00-100;1;Valve;Puzzle;Portal 2;9.99
+V00-101;46;Valve;Zombies;Left 4 Dead;2.90
+V00-102;47;Avalanche;RPG;Hogwarts Legacy;69.90
+V00-103;48;Beteshda;RPG;Skyrim;9.99
+V00-104;49;CD Projekt Red;RPG;The Witcher III: Wild Hunt;39.99
+V00-105;50;Xbox Game Studios;Simulador;Minecraft;15.90
+V00-106;51;Xbox Game Studios;Simulador;Minecraft;15.90
+V00-107;52;WB Games Montreal;Aventura;Batman: Arkham Origins;35.20
+V00-108;53;CAPCOM;Terror;Outlast;12.25
+V00-109;54;EA;Aventura;The Simpsons Game;13.90
+V00-110;55;Rockstar;Misterio;L.A. Noire;16.80
+V00-111;46;Paradox;Estrategia;Crusader Kings III;49.99
+V00-112;46;Firaxis;Estrategia;Civilization VI;59.99
+V00-113;50;Reef Entertainment;Tiros;Rambo;11.50
+V00-114;52;Rocksteady Studios;Aventura;Batman: Arkham Asylum;8.50
+V00-115;52;Rocksteady Studios;Aventura;Batman: Return to Arkham;49.99
+V00-116;55;Inner Sloth;Misterio;Among Us;1.60
+V00-117;55;Ubisoft;Aventura;Assassin's Creed: Unity;40.90
+V00-119;56;Pandemic Studios;Tiros;Star Wars Battlefront;22.90
+V00-119;57;Pandemic Studios;Tiros;Star Wars Battlefront;22.90
+V00-120;58;Insomniac Games;Aventura;Spider-Man;50.15
+V00-121;59;Monolith Productions;RPG;Middle-earth: Shadow of Mordor;29.80
+V00-122;60;Square Enix;Aventura;Tomb Raider;34.30
+V00-123;56;Eidos Interactive;Aventura;Lego Star Wars: The Video Game;2.30
+V00-124;56;Respawn Entertainment;Aventura;Star Wars Jedi: Fallen Order;70.90
+V00-125;58;Insomniac Games;Aventura;Spider-Man 2;60.90
+V00-126;44;Frontier Developments;Simulador;Planet Zoo;310.90
+V00-127;34;Frontier Developments;Simulador;Planet Zoo;310.90
+V00-128;1;Frontier Developments;Simulador;Planet Zoo;310.90
+V00-129;18;Sony;Festa;Sing Star;9.90
+V00-130;61;EA;Simulador;Sims 4 Digital Deluxe;215.90
+V00-131;62;Ubisoft;Aventura;Assassin's Creed II;12.90
+V00-132;62;Xbox Game Studios;Simulador;Minecraft;15.90
+V00-133;63;Valve;Puzzle;Portal 2;9.99
+V00-134;64;Concerned Ape;Simulador;Stardew Valley;12.55
+V00-135;65;Take-Two Interactive;Simulador;Kerbal Space Program;9.99
+V00-136;66;Take-Two Interactive;Simulador;Kerbal Space Program;9.99
+V00-137;67;Studio MDHR;Arcada;Cuphead;16.99
+V00-138;68;Redcloak;Simulador;Little Alchemy;0.5
+V00-139;69;EA;Simulador;Sims 4 Digital Deluxe;215.90
+V00-140;70;Ubisoft;Aventura;Assassin's Creed III;12.90
+V00-141;71;CAPCOM;Luta;Street Fighter VI;55.90
+V00-142;72;Firaxis;Estrategia;Civilization VI;59.99
+V00-143;73;Firaxis;Estrategia;Civilization VI;59.99
+V00-144;74;EA;Desporto;FIFA 21;29.90
+V00-145;75;Nintendo;Desporto;Wii Sports;2.75
+V00-146;76;Nintendo;Desporto;Wii Sports;2.75
+V00-147;77;Rockstar;RPG;Red Dead Redemption 2;69.90
+V00-148;78;Naughty Dog;Aventura;The Last of Us;49.90
+V00-149;79;Giant Army;Simulador;Universe Sandbox;20.09
+V00-150;80;EA;Simulador;Sims 4 Digital Deluxe;215.90
+V00-151;81;Rockstar;RPG;GTA V;29.90
+V00-152;81;EA;Simulador;Sims 4 Digital Deluxe;215.90
+V00-153;81;Frontier Developments;Simulador;Planet Zoo;310.90
+V00-154;82;Jackbox Games;Festa;Jackbox Party ;11.24
+V00-155;83;Giants;Simulador;Farming Simulator 22;31.25
+V00-156;84;Jackbox Games;Festa;Jackbox Party ;11.24
+V00-157;85;Sony;Festa;Sing Star;9.90
+V00-158;86;Activision;Festa;Guitar Hero;24.50
+V00-159;87;Inner Sloth;Misterio;Among Us;1.60
+V00-160;87;EA;Desporto;FIFA 23;69.90
+V00-161;87;EA;Desporto;UFC 23;69.90
+V00-162;88;EA;Desporto;FIFA 23;69.90
+V00-163;88;Nintendo;Desporto;Wii Sports;2.75
+V00-164;88;Reef Entertainment;Tiros;Rambo;11.50
+V00-165;89;Sony;Festa;Sing Star;9.90
+V00-166;90;Rockstar;RPG;GTA V;29.90
+V00-167;90;Paradox;Estrategia;Crusader Kings III;49.99
+V00-168;90;Frontier Developments;Simulador;Planet Zoo;310.90
+V00-169;66;Hello Games;Aventura;No Man Sky;29.99
+V00-170;65;Giant Army;Simulador;Universe Sandbox;20.09
+V00-171;68;Redcloak;Simulador;Little Alchemy;0.75
+V00-172;71;Bandai Namco;Luta;Tekken 7;69.90
+V00-173;76;CD Projekt Red;RPG;The Witcher III: Wild Hunt;39.99
+V00-174;83;Coffee Stain;Simulador;Goat Simulator 3;19.99
+V00-175;83;Frontier Developments;Simulador;Planet Zoo;310.90
