@@ -6,17 +6,19 @@ public class Pessoa {
     private int idade;
 
     /**
-     * Método construtor para Pessoa
+     * Método construtor para um novo paciente
      *
-     * @param nome   Nome Civil da Pessoa
-     * @param altura Altura (m.)
-     * @param idade  Idade da Pessoa
+     * @param nome      Nome Civil da <b>Pessoa</b>
+     * @param altura    Altura (m.)
+     * @param idade     Idade da Pessoa
      */
     public Pessoa(String nome, double altura, int idade) {
         this.nome = nome;
         this.altura = altura;
         this.idade = idade;
     }
+
+
 
     public String getNome() {
         return this.nome;
