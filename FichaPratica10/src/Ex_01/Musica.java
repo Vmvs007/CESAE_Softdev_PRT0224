@@ -6,11 +6,15 @@ public class Musica {
     private String artista;
     private int duracao;
 
-    public Musica(java.lang.String titulo, java.lang.String genero, java.lang.String artista, int duracao) {
+    public Musica(String titulo, String genero, String artista, int duracao) {
         this.titulo = titulo;
         this.genero = genero;
         this.artista = artista;
         this.duracao = duracao;
+    }
+
+    public int getDuracao() {
+        return duracao;
     }
 
     public void exibirDetalhes() {
