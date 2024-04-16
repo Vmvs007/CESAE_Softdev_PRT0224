@@ -26,18 +26,18 @@ public class BarcoPesca {
     }
 
 
-    public void largarPeixe(int indexRemover){
+    public void largarPeixe(int indexRemover) {
         this.peixesPescados.remove(indexRemover);
     }
 
-    public void largarMarisco(int indexRemover){
+    public void largarMarisco(int indexRemover) {
         this.mariscoPescado.remove(indexRemover);
     }
 
     public void pescarPeixe(Peixe peixeNovo) {
         if (peixeNovo.getPeso() > this.capacidadeAtual()) {
             System.out.println("Peixe excede a capacidade atual: " + this.capacidadeAtual());
-        }else{
+        } else {
             this.peixesPescados.add(peixeNovo);
             System.out.println("Peixe pescado com sucesso");
         }
@@ -46,7 +46,7 @@ public class BarcoPesca {
     public void pescarMarisco(Marisco mariscoNovo) {
         if (mariscoNovo.getPeso() > this.capacidadeAtual()) {
             System.out.println("Marisco excede a capacidade atual: " + this.capacidadeAtual());
-        }else{
+        } else {
             this.mariscoPescado.add(mariscoNovo);
             System.out.println("Marisco pescado com sucesso");
         }
@@ -70,11 +70,11 @@ public class BarcoPesca {
         double total = 0;
 
         for (Peixe peixeAtual : this.peixesPescados) {
-            total += (peixeAtual.getPeso()*peixeAtual.getPrecoKg());
+            total += (peixeAtual.getPeso() * peixeAtual.getPrecoKg());
         }
 
         for (Marisco mariscoAtual : this.mariscoPescado) {
-            total += (mariscoAtual.getPeso()*mariscoAtual.getPrecoKg());
+            total += (mariscoAtual.getPeso() * mariscoAtual.getPrecoKg());
         }
 
         return total;
@@ -82,5 +82,15 @@ public class BarcoPesca {
 
     public double capacidadeAtual() {
         return this.capacidadeCarga - this.calcularCargaAtual();
+    }
+
+    public double salarioTripulacao() {
+        double valorTotalCarga = this.calcularValorTotal();
+
+        double valorTotalSemCapitacao = valorTotalCarga * 0.6;
+
+        double salarioIndividual = valorTotalSemCapitacao/this.tripulacao;
+
+        return salarioIndividual;
     }
 }
