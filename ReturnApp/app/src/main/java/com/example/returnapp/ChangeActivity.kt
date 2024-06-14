@@ -1,13 +1,10 @@
 package com.example.returnapp
 
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.example.returnapp.databinding.ActivityChangeNameBinding
 
-class ChangeNameActivity : AppCompatActivity() {
+class ChangeActivity : AppCompatActivity() {
 
     private val binding by lazy{
         ActivityChangeNameBinding.inflate(layoutInflater)

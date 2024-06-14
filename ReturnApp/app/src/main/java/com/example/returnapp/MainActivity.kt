@@ -2,12 +2,9 @@ package com.example.returnapp
 
 import android.content.Intent
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.example.returnapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -25,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.buttonTrocarNome.setOnClickListener{
-            val i = Intent(this,ChangeNameActivity::class.java)
+            val i = Intent(this,ChangeActivity::class.java)
             i.putExtra("nome",nome)
             result.launch(i)
         }
